@@ -43,4 +43,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Tus días de solicitud son: " . implode(", ", $dias) . "<br>";
     }
 }
+
+// agregando codigo para mi git
 ?>
