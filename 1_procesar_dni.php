@@ -42,10 +42,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         //texto, separando por coma y espacio.
         echo "Tus días de solicitud son: " . implode(", ", $dias) . "<br>";
     }
+    //ahor si quedo bien
 }
-
-// agregando codigo para mi git
-
-
-//agregue el segundo comentario segun lo coordinado
 ?>
